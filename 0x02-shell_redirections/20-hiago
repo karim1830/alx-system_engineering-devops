@@ -1,2 +1,2 @@
-#!/bin/b ash
+#!/bin/bash
 tr -d "cC"
